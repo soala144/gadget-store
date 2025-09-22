@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14 Pro",
+    "price": "₦850,000",
+    "originalPrice": "₦950,000",
+    "category": "Phones",
+    "image": "https://images.unsplash.com/photo-1678652197831-2d180705cd2c?w=400&h=400&fit=crop",
+    "rating": 4.8,
+    "reviews": 324,
+    "discount": "11% OFF",
+    "features": ["128GB Storage", "Pro Camera System", "Dynamic Island"]
+  },
+  {
+    "id": 2,
+    "name": "MacBook Pro M2",
+    "price": "₦1,200,000",
+    "originalPrice": "₦1,350,000",
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400&h=400&fit=crop",
+    "rating": 4.9,
+    "reviews": 156,
+    "discount": "11% OFF",
+    "features": ["M2 Chip", "16GB RAM", "512GB SSD"]
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy S23",
+    "price": "₦620,000",
+    "originalPrice": "₦720,000",
+    "category": "Phones",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&h=400&fit=crop",
+    "rating": 4.7,
+    "reviews": 289,
+    "discount": "14% OFF",
+    "features": ["256GB Storage", "50MP Camera", "8K Video"]
+  },
+  {
+    "id": 4,
+    "name": "iPad Pro 2023",
+    "price": "₦780,000",
+    "category": "Tablets",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=400&fit=crop",
+    "rating": 4.8,
+    "reviews": 142,
+    "features": ["M2 Chip", "11-inch Display", "Apple Pencil Support"]
+  },
+  {
+    "id": 5,
+    "name": "AirPods Pro",
+    "price": "₦180,000",
+    "originalPrice": "₦220,000",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=400&h=400&fit=crop",
+    "rating": 4.6,
+    "reviews": 567,
+    "discount": "18% OFF",
+    "features": ["Active Noise Cancellation", "Spatial Audio", "6hrs Battery"]
+  },
+  {
+    "id": 6,
+    "name": "Dell XPS 13",
+    "price": "₦950,000",
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400&h=400&fit=crop",
+    "rating": 4.5,
+    "reviews": 98,
+    "features": ["Intel i7", "16GB RAM", "13.3 inch Display"]
+  }
+]
