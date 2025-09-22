@@ -204,7 +204,7 @@ const Products = () => {
 
                     {/* Order Button */}
                     <motion.a
-                      href={`https://wa.me/2348012345678?text=Hi! I'm interested in ordering the ${encodeURIComponent(
+                      href={`https://wa.me/2348124554767?text=Hi! I'm interested in ordering the ${encodeURIComponent(
                         product.name
                       )} for ${product.price}. Is it available?`}
                       target="_blank"

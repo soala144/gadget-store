@@ -226,7 +226,7 @@ export default function Home() {
               </div>
 
               <motion.a
-                href="https://wa.me/2348012345678?text=Hi! I'd like to inquire about your products and services."
+                href="https://wa.me/2348124554767?text=Hi! I'd like to inquire about your products and services."
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}
