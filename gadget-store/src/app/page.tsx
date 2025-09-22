@@ -1,18 +1,14 @@
 "use client";
-import React, { useState, useEffect } from "react";
+import React, { useState, u } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
-  Search,
   ShoppingBag,
   Phone,
   Mail,
   MapPin,
-  Star,
   Truck,
   Shield,
   Award,
-  ChevronLeft,
-  ChevronRight,
   Menu,
   X,
 } from "lucide-react";
@@ -390,7 +386,7 @@ export default function Home() {
             <p className="text-gray-400">
               &copy; {new Date().getFullYear()} TechHub NG. All rights reserved.
               | Built with <span className="animate-bounce">❤️</span> by{" "}
-              <a href="https://wa.me/2348124554767">&lt;soaladev/&gt;</a>
+              <a href="https://wa.me/+2348124554767">&lt;soaladev/&gt;</a>
             </p>
           </div>
         </div>
