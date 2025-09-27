@@ -15,6 +15,7 @@ import {
 import Image from "next/image";
 import Products from "@/components/Products";
 import Testimonials from "@/components/Testimonials";
+import ShopMap from "@/components/Map";
 
 export default function Home() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -248,9 +249,10 @@ export default function Home() {
               className="bg-gray-200 rounded-2xl h-80 flex items-center justify-center"
             >
               <div className="text-center text-gray-500">
-                <MapPin className="w-12 h-12 mx-auto mb-2" />
+                {/* <MapPin className="w-12 h-12 mx-auto mb-2" />
                 <p>Interactive Map</p>
-                <p className="text-sm">Port Harcourt Location</p>
+                <p className="text-sm">Port Harcourt Location</p> */}
+                <ShopMap />
               </div>
             </motion.div>
           </div>
